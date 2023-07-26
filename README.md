@@ -8,7 +8,7 @@ I have created 3 apis according to problem statement using node.js
 
 2. /past-stories:
 
-    In the below screenshot of postman you can see that, top 10 stories have been fetched from cache put in top-stories. If these api is runned after 15 minutes of top-stories then again top 10 stories will be fetched and will be sorted based on code.
+    In the below screenshot of postman you can see that, top 10 stories have been fetched from cache which was put in top-stories. If these api is runned after 15 minutes of top-stories then again top 10 stories will be fetched and will be sorted based on code.
   ![image](https://github.com/Shubham-Zope/questionprotesthackernewpi/assets/71915264/bd0021ea-0a61-4b89-a882-4c35ca9492dd)
 
 3. /comments:

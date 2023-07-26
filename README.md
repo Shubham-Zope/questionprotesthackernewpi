@@ -1,4 +1,4 @@
-![image](https://github.com/Shubham-Zope/questionprotesthackernewpi/assets/71915264/36a98481-2817-491a-b3e9-f2f38d27607c)# questionprotesthackernewpi
+questionprotesthackernewpi
 I have created 3 apis according to problem statement using node.js
 
 1. /top-stories:

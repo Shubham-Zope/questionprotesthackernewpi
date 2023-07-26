@@ -23,6 +23,14 @@ Running code on port 3000:
 
    ![image](https://github.com/Shubham-Zope/questionprotesthackernewpi/assets/71915264/0b8c96ed-1896-4ae4-9a1a-0e80686000ca)
 
+Docker Build
+
+![image](https://github.com/Shubham-Zope/questionprotesthackernewpi/assets/71915264/ba84e898-7fa3-48e0-95b4-f3a5f8038cfb)
+
+Docker running on 3000
+
+
+
    
    
    

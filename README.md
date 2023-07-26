@@ -1,6 +1,11 @@
 questionprotesthackernewpi
 I have created 3 apis according to problem statement using node.js
 
+Running code on port 3000:
+![image](https://github.com/Shubham-Zope/questionprotesthackernewpi/assets/71915264/75e84402-cef6-4165-9bc0-065508d54dbd)
+
+
+
 1. /top-stories:
    
    In the below screenshot of postman you can see that, top 10 stories have been fetched sorted based on score. Also I used node-cache module for caching the data for 15 mins.
